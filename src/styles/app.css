@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+
+body,
+html {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  background-color: #e5e5e5;
+}
+
+.App {
+  background-color: white;
+  margin: 0px auto;
+  position: relative;
+  max-width: 480px;
+  width: 100%;
+  box-sizing: border-box;
+  height: 100vh;
+  min-height: calc(100vh - 60px);
+}
+
+.btn-save-modal {
+  cursor: pointer;
+  color: #55988d;
+}
+
+.btn-save-modal-disabled {
+  color: black;
+  opacity: 0.5;
+}

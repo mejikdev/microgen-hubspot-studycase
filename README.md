@@ -2,7 +2,7 @@
 - A CRM free to keep contact organized and communicate so you can close more deals with less work. This project is a study case made with Microgen. A low code Microservices Backend which deliver your app faster to market.
 <img src="https://user-images.githubusercontent.com/46531367/130712799-35a4ed27-1d40-4a43-866c-828379976788.jpg" width="200" />
 
-- Demo can be watch on [here](https://youtu.be/cRgiQyNv3nE)
+- Demo [Hubspot](https://hubspot.mejik.id/)
 - Schema Manager from Microgen as the backend
 <img src="https://user-images.githubusercontent.com/46531367/130713019-c800b3e3-635b-4d35-afd5-e567ccb71fc1.jpg" width="350" />
 

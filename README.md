@@ -15,6 +15,7 @@
   - Clone this github [repository](https://github.com/mejikdev/microgen-hubspot-studycase.git)
   - Install dependencies : run `npm install` in root project
   - Create .env file in root project and add: `MICROGEN_URL=http://yourmicrogenprojecturl.com`
+  - Run project : `npm start`
 
 ## Generate REST API & GQL
 ### Rest API

@@ -2,13 +2,13 @@
 A CRM free to keep contact organized and communicate so you can close more deals with less work. This project is a study case made with Microgen. A low code Microservices Backend which deliver your app faster to market.
 
 <p align="center">
-  <img width="200" src="https://user-images.githubusercontent.com/46531367/130712799-35a4ed27-1d40-4a43-866c-828379976788.jpg">
+  <img width="500" src="https://user-images.githubusercontent.com/46531367/131293705-71cc3d83-6711-4f42-be49-6fa66b2c1cfe.JPG">
 </p>
 
-- Demo [Hubspot](https://hubspot.mejik.id/)
-- Schema Manager from Microgen as the backend
+- [Try Demo App](https://hubspot.mejik.id/)
+- [View Microgen Backend](https://dev-schubspotpewip.microgen.id/graphql)
 <p align="center">
-  <img width="350" src="https://user-images.githubusercontent.com/46531367/130713019-c800b3e3-635b-4d35-afd5-e567ccb71fc1.jpg">
+  <img width="450" src="https://user-images.githubusercontent.com/46531367/130713019-c800b3e3-635b-4d35-afd5-e567ccb71fc1.jpg">
 </p>
 
 ## Getting Started
@@ -22,7 +22,7 @@ A CRM free to keep contact organized and communicate so you can close more deals
   - Create .env file in root project and add: `MICROGEN_URL=http://yourmicrogenprojecturl.com`
   - Run project : `npm start`
 
-## Generate REST API & GQL
+## Generated REST API & GQL
 ### Rest API
 |Consume Query         |Endpoint|Image|
 |----------------------|----|-----|
